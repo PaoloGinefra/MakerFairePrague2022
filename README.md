@@ -1,4 +1,4 @@
-# MakerFairePrague2022
+# Maker Faire Prague 2022
 
 This is the code produced during the Maker Faire exposition of an old project of mine called ARACHNE ([for more info](https://www.youtube.com/channel/UCInXuTPAg9Gda9SzNKTq7eQ))
 
